@@ -1,4 +1,5 @@
 # IntegrationSpringMvcVaadinUI
+Example for Integration SpringMvc and VaadinUI, 404 in jsp pages from spring controller.
 
 Errors:
 
