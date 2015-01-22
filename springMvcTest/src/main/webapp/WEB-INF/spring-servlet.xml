@@ -8,5 +8,7 @@
 	<!-- Declare a view resolver -->
 	<bean id="jspViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver"
     		p:prefix="/WEB-INF/jsp/" p:suffix=".jsp" p:order="1"/>
+    		
+    <bean name="spring" class="org.nli.deposit.controller.MainController" />
 
 </beans>

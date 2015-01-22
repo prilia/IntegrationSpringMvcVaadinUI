@@ -13,8 +13,9 @@
 
 </head>
 <body>
+Hello !!!
 	<div id="depositBody" class="body center">
-	
+		Hello !!!
 	<div id="login">
 				<div class="mainContent">
 					
@@ -23,9 +24,9 @@
 				<div class="content_data">
 					<div class="width100 line"></div>
 					<div class="login-bottuns" align="center">
-						<btnTag:button id="submit" type="submit" value="Go"
-							cssClass="width160" />
-						<div class="width100"></div>
+						<form method="get" action="./">
+						    <button id="submit" type="submit" name="GO" value="Go" />Continue 12345</button>
+						</form>
 					</div>
 				</div>
 			</div>

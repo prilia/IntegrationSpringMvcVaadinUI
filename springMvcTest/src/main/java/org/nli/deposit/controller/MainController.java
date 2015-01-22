@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
-@RequestMapping("spring")
+@RequestMapping("/")
 public class MainController {
 
 	@RequestMapping(value = "{jspFile}")
